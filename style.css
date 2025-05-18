@@ -1,0 +1,22 @@
+body {
+  padding-left:2%;
+}
+
+p {
+    color:crimson;
+    
+}
+
+nav {
+    display:flex;
+    background-color:beige;
+    justify-content: center;
+    align-items:center;
+    gap:10%;
+      
+}
+
+nav p:hover {
+    color:aqua;
+}
+
